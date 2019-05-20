@@ -1,7 +1,7 @@
 Planning de travail
-Lundi
-Mardi
-Mercredi
-Jeudi
-Vendredi
-Samedi & Dimanche
+Lundi : Java
+Mardi : JHipster
+Mercredi : Heroku
+Jeudi : COBOL
+Vendredi : Rest
+Samedi & Dimanche : Git
